@@ -2,3 +2,4 @@
 
 #Instalando mitohifi usando apptainer
 apptainer pull mitohifi.sif docker://ghcr.io/marcelauliano/mitohifi:master
+
